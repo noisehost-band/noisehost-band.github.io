@@ -20,7 +20,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 # Photos
 
-{% include image-gallery.html folder="assets/images" %}
+{% include image-gallery.html folder="assets/promo" %}
 
 ---
 
