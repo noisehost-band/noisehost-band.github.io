@@ -1,0 +1,38 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Theme skin
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+
+@import "basically-basic";
+
+.initial-content {
+  text-align: justify;
+}
+
+.inner {
+  margin: auto;
+}
+
+hr {
+  height: 0.1em;
+  background: grey;
+  border: 0px;
+}
+
+.socials_container {
+  width: 100%;
+}
+
+.socials {
+  width: fit-content;
+  margin: auto;
+}
+
+.youtube_container {
+  width: 100%;
+  text-align: left;
+}
