@@ -38,3 +38,16 @@ hr {
   // background: gold; /** <-- For the demo **/
   aspect-ratio: 16 / 9;
 }
+
+.intro {
+  margin: 0;
+  margin-bottom: 2em;
+  background-image: url('/assets/images/background.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.intro-title {
+  color: white;
+}
