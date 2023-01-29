@@ -32,7 +32,9 @@ hr {
   margin: auto;
 }
 
-.youtube_container {
+.youtube {
   width: 100%;
-  text-align: left;
+  // padding-bottom: 75%;
+  // background: gold; /** <-- For the demo **/
+  aspect-ratio: 16 / 9;
 }
