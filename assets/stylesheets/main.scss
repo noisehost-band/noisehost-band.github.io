@@ -9,6 +9,17 @@
 
 @import "basically-basic";
 
+.intro-image:after {
+  content: '';
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  height: 50%;
+  bottom: 0px;
+  background: linear-gradient(180deg, rgba(139,167,32,0) 0%, rgba(255,255,255,1) 100%);
+  pointer-events: none;
+}
+
 .initial-content {
   text-align: justify;
 }
@@ -34,20 +45,5 @@ hr {
 
 .youtube {
   width: 100%;
-  // padding-bottom: 75%;
-  // background: gold; /** <-- For the demo **/
   aspect-ratio: 16 / 9;
-}
-
-.intro {
-  margin: 0;
-  margin-bottom: 2em;
-  background-image: url('/assets/images/background.jpeg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-
-.intro-title {
-  color: white;
 }

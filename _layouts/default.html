@@ -9,16 +9,6 @@
 
 {% include head.html %}
 
-<link rel="android-icon" sizes="192x192" href="/assets/images/icons/android-chrome-192x192.png">
-<link rel="android-icon" sizes="512x512" href="/assets/images/icons/android-chrome-512x512.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/icons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/icons/favicon-16x16.png">
-<link rel="manifest" href="/assets/images/icons/site.webmanifest">
-<link rel="shortcut icon" href="/assets/images/icons/favicon.ico">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
-
 <body
   class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {{ page.title | slugify }}">
 
