@@ -12,15 +12,13 @@ youtube:
   reka: DD_8eGjq03k
 ---
 
-# Hi, we are Noisehost, 
+We are a Berlin-based three-piece indie rock band. Our music blends punk and emo, and our lyrics reflect our thoughts and emotions on current events. With a strong political stance against the Russian invasion of Ukraine, one of our goals with our songs, which are written in Russian, is to bring hope and empowerment to our listeners during these hard times.
 
-a Berlin-based indie rock band made up of three of us. Our music blends punk and emo, and our lyrics reflect our thoughts and emotions on current events. While we do have a political stance on the Russian invasion of Ukraine, our main goal with our songs, which are written in Russian, is to bring hope and empowerment to our listeners.
-
-Our debut EP received positive attention from media outlets, with comparisons drawn to alternative acts such as Ovlov and Radiohead. This has solidified our place as a rising band in the indie rock scene.
+Our debut EP was well-received by local media, drawing comparisons to the sounds of Ovlov and Radiohead. This recognition has established us as a promising and growing presence in the indie rock community.
 
 As a band, our passion lies in creating music that matters, and that resonates with our audience. We hope our songs not only provide a form of escapism but also inspire others to believe in themselves and the power of their own voice. We are actively working on new music, set to be released in mid 2023, and we can't wait for you to hear it.
 
-For fans of punk and emo-inspired indie rock, we offer a fresh and unique sound with a message that resonates. We are excited to continue to grow and make a big impact in the world of alternative music.
+For fans of punk and emo-inspired indie rock, we offer a fresh and unique sound with a message that resonates. We eagerly anticipate expanding our presence and making a meaningful contribution to the indie music community.
 
 {% include socials.html %}
 
