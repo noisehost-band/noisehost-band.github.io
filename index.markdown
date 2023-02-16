@@ -18,7 +18,7 @@ youtube:
   </p>
   <a class="author" href="https://open.spotify.com/user/w1he2s1iek4l2pwf28bdsbz5v"> 
     E:\music\emo
-  </p>
+  </a>
 </div>
 
 ---
