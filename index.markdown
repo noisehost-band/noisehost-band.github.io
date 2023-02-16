@@ -17,7 +17,7 @@ youtube:
     "A hot mix of punk energy, shoegaze noise, and emo lyrics, with a touch of Radiohead!"
   </p>
   <p class="author"> 
-    E:/music/emo
+    E:\music\emo
   </p>
 </div>
 
