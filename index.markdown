@@ -20,7 +20,7 @@ Our debut EP was well-received by local media, drawing comparisons to the sounds
 
 As a band, our passion lies in creating music that matters, and that resonates with our audience. We hope our songs not only provide a form of escapism but also inspire others to believe in themselves and the power of their own voice. We are actively working on new music, set to be released in mid 2023, and we can't wait for you to hear it.
 
-We eagerly anticipate expanding our presence and making a meaningful contribution to the indie music community.
+For fans of punk and emo-inspired indie rock, we offer a fresh and unique sound with a message that resonates with them. We are actively working on expanding our presence and are set out to make a meaningful contribution to the Berlin indie music scene.
 
 {% include socials.html %}
 
