@@ -12,7 +12,14 @@ youtube:
   reka: DD_8eGjq03k
 ---
 
-<p class="quote-container"><p class="quote">"A hot mix of punk energy, shoegaze noise, and emo lyrics, with a touch of Radiohead!"</p><p class="author"> E:/music/emo</p></p>
+<div class="quote-container">
+  <p class="quote">
+    "A hot mix of punk energy, shoegaze noise, and emo lyrics, with a touch of Radiohead!"
+  </p>
+  <p class="author"> 
+    E:/music/emo
+  </p>
+</div>
 
 ---
 
