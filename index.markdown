@@ -12,13 +12,15 @@ youtube:
   reka: DD_8eGjq03k
 ---
 
+<p class="quote">"A hot mix of punk energy, shoegaze noise, and emo lyrics, with a touch of Radiohead!" E:/music/emo</p>
+
 We are a Berlin-based three-piece indie rock band. Our music blends punk and emo, and our lyrics reflect our thoughts and emotions on current events. With a strong political stance against the Russian invasion of Ukraine, one of our goals with our songs, which are written in Russian, is to bring hope and empowerment to our listeners during these hard times.
 
 Our debut EP was well-received by local media, drawing comparisons to the sounds of Ovlov and Radiohead. This recognition has established us as a promising and growing presence in the indie rock community.
 
 As a band, our passion lies in creating music that matters, and that resonates with our audience. We hope our songs not only provide a form of escapism but also inspire others to believe in themselves and the power of their own voice. We are actively working on new music, set to be released in mid 2023, and we can't wait for you to hear it.
 
-For fans of punk and emo-inspired indie rock, we offer a fresh and unique sound with a message that resonates. We eagerly anticipate expanding our presence and making a meaningful contribution to the indie music community.
+We eagerly anticipate expanding our presence and making a meaningful contribution to the indie music community.
 
 {% include socials.html %}
 
