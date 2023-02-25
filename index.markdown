@@ -27,7 +27,7 @@ We are a Berlin-based three-piece indie rock band. Our music blends punk and emo
 
 Our debut EP was well-received by local media, drawing comparisons to Ovlov and Radiohead.
 
-As a band, our passion is in creating music that matters and that resonates with our audience. We hope our songs not only provide a form of escapism but also inspire others to believe in themselves and the power of their own voice. We are actively working on new music, set to be released in mid 2023, and we can’t wait to have an opportunity to play it live.
+As a band, our passion is creating music that matters and that resonates with our audience. We hope our songs not only provide a form of escapism but also inspire others to believe in themselves and the power of their own voice. We are actively working on new music, set to be released in mid 2023, and we can’t wait to have an opportunity to play it live.
 
 For fans of punk and emo-inspired indie rock, we offer a fresh and unique sound with a moving message. We are currently expanding our presence and are set on making a meaningful contribution to the indie music scene.
 
