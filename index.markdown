@@ -23,7 +23,7 @@ youtube:
 
 ---
 
-We are a Berlin-based three-piece indie rock band. Our music blends punk and emo, and our lyrics reflect our thoughts and emotions on current events. With a strong political stance against the Russian invasion of Ukraine we want our songs that are written in Russian to bring hope and empowerment to our listeners during these hard times.
+We are a Berlin-based three-piece indie rock band. Our music blends punk and emo.
 
 Our debut EP was well-received by local media, drawing comparisons to Ovlov and Radiohead.
 
